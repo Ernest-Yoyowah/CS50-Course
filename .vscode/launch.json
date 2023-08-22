@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/ernest/CS50-Course",
-      "program": "/home/ernest/CS50-Course/build/Debug/outDebug",
+      "cwd": "/home/ernest/ESA_programming/MyProjects/CS50-Course",
+      "program": "/home/ernest/ESA_programming/MyProjects/CS50-Course/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
